@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: SDK.xcodeproj
+xcode_scheme: SDK
+xcode_sdk: iphonesimulator
